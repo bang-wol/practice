@@ -1,4 +1,4 @@
-run = "python main.py"
+run = "python algorithm/구현/게임개발.py"
 
 # The primary language of the repl. There can be others, though!
 language = "bash"
